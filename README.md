@@ -1,4 +1,4 @@
 # Introo Landing site
-name:- Pranay khendkar
+name:- Pranay karnaraj khendkar
 
 
